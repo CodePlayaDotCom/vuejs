@@ -17,6 +17,7 @@ in result you getting work interactive app using both vuejs and non nodejs backe
  
 
 -- Non-SSR Vuejs Application Seo
+
 Description:
 
 According to [New Google Evergreen Bot Presentation](https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html), google bots capable of rendering the page with v8 engine and you can use Vuejs non-ssr with no concerning about seo issues and page indexing
